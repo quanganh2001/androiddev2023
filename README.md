@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *YourNameHere*
-* ID: *YourIdHere*
+* Name: Nguyễn Quang Anh
+* ID: BA10-002
 * Group ID: *Your Group ID here*
 
